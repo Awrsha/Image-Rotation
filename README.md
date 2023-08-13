@@ -47,7 +47,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/image-rotation-python.git
+git clone https://github.com/Awrsha/Image-Rotation.git
 ```
 
 2. Install the required dependencies using pip:
